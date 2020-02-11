@@ -37,7 +37,7 @@ body {
 
 }
 #nav-list a {
-  color: #666677;
+  color: #777777;
   text-align: center;
 }
 #nav-list a:hover {
@@ -61,9 +61,10 @@ body {
   text-align: center;
 }
 #menu-descriptons {
-    margin: 10 auto 10 auto;
+    margin-left: 20px;
+    margin-right: 20px;
     background-color: #cc6633;
-
+    opacity: .8;
     padding: 25px;
     width: auto;
     text-align: left;
